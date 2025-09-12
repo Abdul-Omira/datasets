@@ -1,0 +1,27 @@
+[
+  {
+    "id": "12345",
+    "title": "Artificial Intelligence",
+    "url": "https://en.wikipedia.org/wiki/Artificial_Intelligence",
+    "text": "Artificial intelligence (AI) is intelligence demonstrated by machines...",
+    "redirects": [
+      "AI",
+      "Machine Intelligence",
+      "Artificial intelligence"
+    ],
+    "pageviews_2023": 2450000,
+    "timestamp": "2023-12-01T10:30:00Z"
+  },
+  {
+    "id": "67890",
+    "title": "Machine Learning",
+    "url": "https://en.wikipedia.org/wiki/Machine_Learning",
+    "text": "Machine learning (ML) is a field of inquiry devoted to understanding...",
+    "redirects": [
+      "ML",
+      "Statistical Learning"
+    ],
+    "pageviews_2023": 1850000,
+    "timestamp": "2023-12-01T09:15:00Z"
+  }
+]
